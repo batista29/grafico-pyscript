@@ -1,6 +1,6 @@
 # Gráfico feito em python + HTML.
 
-* Gráfico feito em Python adicionado no HTML com uso do framework pyscript.
+* Gráfico feito em Python (Pyscript) adicionado no HTML.
 
 ## Linguagem
 
